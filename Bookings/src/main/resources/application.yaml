@@ -1,0 +1,32 @@
+#spring:
+#  application:
+#    name: Bookings
+#
+#  datasource:
+#    generate-unique-name: false
+#    name: Booking
+#  h2:
+#    console:
+#      enabled: true
+#
+
+#  jpa:
+#    show-sql: true
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/bookings_db
+    username: bookings_user
+    password: bookings_pass
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect

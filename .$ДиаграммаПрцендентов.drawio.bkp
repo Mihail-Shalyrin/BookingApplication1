@@ -1,0 +1,136 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Страница — 1" id="NDWAFka7wiAFi8Mj4EA6">
+    <mxGraphModel dx="1188" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-1" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-2" value="Админ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="295" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-3" value="Суперадмин" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="610" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-8" value="&lt;p data-start=&quot;1489&quot; data-end=&quot;1516&quot;&gt;Вот прям как должно быть 👇&lt;/p&gt;&#xa;&lt;pre class=&quot;overflow-visible! px-0!&quot; data-start=&quot;1518&quot; data-end=&quot;2133&quot;&gt;&lt;div class=&quot;relative w-full mt-4 mb-1&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;border border-token-border-light border-radius-3xl corner-superellipse/1.1 rounded-3xl&quot;&gt;&lt;div class=&quot;h-full w-full border-radius-3xl bg-token-bg-elevated-secondary corner-superellipse/1.1 overflow-clip rounded-3xl lxnfua_clipPathFallback&quot;&gt;&lt;div class=&quot;pointer-events-none absolute end-1.5 top-1 z-2 md:end-2 md:top-1&quot;&gt;&lt;/div&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;pe-11 pt-3&quot;&gt;&lt;div class=&quot;relative z-0 flex max-w-full&quot;&gt;&lt;div id=&quot;code-block-viewer&quot; dir=&quot;ltr&quot; class=&quot;q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼ5 ͼj&quot;&gt;&lt;div class=&quot;cm-scroller&quot;&gt;&lt;div class=&quot;cm-content q9tKkq_readonly&quot;&gt;&lt;span&gt;        (Пользователь)&lt;/span&gt;&lt;br&gt;&lt;span&gt;             |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   -------------------------&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Авторизоваться        |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Просматривать объекты |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Создавать бронь       |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Просматривать свои    |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Изменять свою бронь   |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Отменять свою бронь   |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   -------------------------&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;(Администратор) ───────────▶ (Пользователь)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;(Суперадминистратор) ─────▶ (Администратор)&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;         |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   -------------------------&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Управлять пользователями |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Управлять ролями         |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Управлять бронированиями |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Управлять проектами      |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   | Закреплять ресурсы       |&lt;/span&gt;&lt;br&gt;&lt;span&gt;   -------------------------&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="60" width="320" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-9" value="Авторизация" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-10" value="Просмотр объектов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-11" value="Создание брони" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-12" value="Просмотр своих&lt;div&gt;бронирований&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="255" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-13" value="Изменение брони" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-14" value="Отмена брони" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-16" value="Управление пользователями" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-17" value="Управление ролями" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-18" value="Управление чужими&amp;nbsp;&lt;div&gt;бронированиями&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-19" value="Управление проектами" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-20" value="Закрепление ресурсорв" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="180" as="sourcePoint" />
+            <mxPoint x="230" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="210" as="sourcePoint" />
+            <mxPoint x="230" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="220" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="230" as="sourcePoint" />
+            <mxPoint x="290" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-26" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="CWuVDL1CavpxpMKVPHH7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="165" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-27" value="" style="endArrow=block;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.76" y="440" as="sourcePoint" />
+            <mxPoint x="164.76" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.05;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204" y="230" as="sourcePoint" />
+            <mxPoint x="354" y="320.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+            <mxPoint x="260" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="450" as="sourcePoint" />
+            <mxPoint x="240" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="480" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="490" as="sourcePoint" />
+            <mxPoint x="353.99999999999994" y="518.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="500" as="sourcePoint" />
+            <mxPoint x="240" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWuVDL1CavpxpMKVPHH7-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CWuVDL1CavpxpMKVPHH7-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="530" as="sourcePoint" />
+            <mxPoint x="250" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
